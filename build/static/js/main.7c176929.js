@@ -28857,7 +28857,7 @@
                       (0, Ao.jsx)(Qs, {
                         variant: "h6",
                         className: n.title,
-                        children: "My MIT Scratch",
+                        children: "SCRATCH",
                       }),
                       (0, Ao.jsx)(ql, {
                         color: "inherit",
