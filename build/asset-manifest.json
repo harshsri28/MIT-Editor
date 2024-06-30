@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JuspayAssignmentScratch/static/css/main.23316544.css",
+    "main.js": "/JuspayAssignmentScratch/static/js/main.7c176929.js",
+    "static/js/787.6fdfeabf.chunk.js": "/JuspayAssignmentScratch/static/js/787.6fdfeabf.chunk.js",
+    "index.html": "/JuspayAssignmentScratch/index.html",
+    "main.23316544.css.map": "/JuspayAssignmentScratch/static/css/main.23316544.css.map",
+    "main.7c176929.js.map": "/JuspayAssignmentScratch/static/js/main.7c176929.js.map",
+    "787.6fdfeabf.chunk.js.map": "/JuspayAssignmentScratch/static/js/787.6fdfeabf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23316544.css",
+    "static/js/main.7c176929.js"
+  ]
+}
