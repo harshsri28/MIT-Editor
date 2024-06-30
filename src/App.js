@@ -53,7 +53,7 @@ function App({ complist, update_list }) {
     }
   };
   return (
-    <div className="bg-blue-100 font-sans">
+    <div style={{ backgroundColor: "#865cd6" }} className=" font-sans">
       <div className={classes.root}>
         <AppBar position="static">
           <Toolbar>
