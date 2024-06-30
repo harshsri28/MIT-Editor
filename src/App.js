@@ -63,7 +63,8 @@ function App({ complist, update_list }) {
             <Button color="inherit">
               <GitHubIcon
                 onClick={() =>
-                  (window.location.href = "https://github.com/harshsri28")
+                  (window.location.href =
+                    "https://github.com/harshsri28/MIT-Editor")
                 }
               />
             </Button>
