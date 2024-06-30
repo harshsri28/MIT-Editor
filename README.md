@@ -1,4 +1,4 @@
-# Juspay React Assignment
+# MIT EDitor
 
 Build a visual code editor for Javascript that is similar to MIT Scratch in React.
 
