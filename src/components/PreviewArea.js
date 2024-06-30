@@ -82,7 +82,7 @@ function PreviewArea({ character, add_character, set_active }) {
     >
       <div className="flex justify-between mb-10">
         <div className="font-bold mb-5 text-center border border-2 rounded text-white bg-green-400 p-2 w-auto">
-          Preview Area
+          Preview
         </div>
         <div>
           <FormControl className={classes.formControl}>
