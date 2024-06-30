@@ -110,6 +110,10 @@ function MidArea({ area_list, add_list, event_values }) {
   return (
     <div className="flex-1 h-full overflow-auto p-3">
       <div className="flex justify-between">
+        <div className="font-bold mb-5 text-center border border-2 rounded text-white bg-green-400 p-2 w-auto">
+          Set Movement
+        </div>
+
         <div>
           <Button
             variant="contained"
