@@ -28846,7 +28846,7 @@
           var t = e.complist,
             n = (e.update_list, Js());
           return (0, Ao.jsxs)("div", {
-            className: "bg-blue-100 font-sans",
+            className: "font-sans",
             children: [
               (0, Ao.jsx)("div", {
                 className: n.root,
